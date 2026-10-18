@@ -1,0 +1,6 @@
+{
+  "name": "XenoGen Lab",
+  "description": "Extraterrestrial biological research platform with DNA sequencing, mutation chamber, evolutionary roadmaps, and species archive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
